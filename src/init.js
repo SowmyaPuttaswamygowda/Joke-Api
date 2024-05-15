@@ -1,3 +1,3 @@
-import loadEvent from './events/loadEvent.js';
+import getJokeListener from './events/getJokeListener.js';
 
-loadEvent();
+getJokeListener();
